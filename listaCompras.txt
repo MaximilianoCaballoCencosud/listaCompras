@@ -5,3 +5,8 @@ cocacola
 ravioles
 salsa de tomate
 avena
+agua
+helado
+fruta
+chocolate
+queso
